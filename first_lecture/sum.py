@@ -9,3 +9,9 @@ x = "10"
 y = 40
 z = int(x) + y
 print("the sum of x and y is :", z)
+
+#input type
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+print("Your name is:", name)
+print("Your age is:", age)
